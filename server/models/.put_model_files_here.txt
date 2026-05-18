@@ -1,0 +1,4 @@
+여기에 아래 3개 모델 파일을 넣으세요.
+- yolo26n.pt
+- baseline_best_val_f1.pt
+- hufep_best_val_f1.pt
